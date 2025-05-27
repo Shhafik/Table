@@ -1,0 +1,7 @@
+#one{
+    background-color:skyblue;
+    border-radius: 10px;
+    th,td{
+    border-radius:7px;
+    }
+}
